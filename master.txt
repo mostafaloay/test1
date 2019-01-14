@@ -2,3 +2,4 @@ master2
 dev2
 s3
 dev1
+dev dev
